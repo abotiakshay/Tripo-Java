@@ -32,10 +32,10 @@
 <i class="fa-solid fa-bars menu"></i>
 
 <div >
-    <ul id="nav" >
+    <ul id="nav">
         <li><a class="active" href="home.jsp">Home</a> </li>
        
-        <li><a href="home.jsp#product">Places</a></li>
+        <li><a href="likedplace.jsp">Places</a></li>
         <li><a href="pagedetails.jsp" class="blog">Blog</a></li>
         <li><a href="home.jsp#footer">About</a></li>
     

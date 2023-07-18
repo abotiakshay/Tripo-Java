@@ -3,6 +3,9 @@
 
 if (session.getAttribute("loggedInUser") != null) {
     // User is already logged in, redirect to a different page
+  
+  
+    
     response.sendRedirect("home.jsp");
 }
 else{

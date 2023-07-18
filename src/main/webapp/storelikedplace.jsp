@@ -15,8 +15,11 @@ System.out.println("placeimage: " + placeimage);
  String user= session.getAttribute("loggedInUser").toString();
    
 	if(user==null)
+	{
+		response.sendRedirect("logindb.jsp");
+	}
 		
-
+	
 // Define database connection variables
 String jdbcUrl = "jdbc:mysql://localhost:3306/akshay";
 String username = "root";

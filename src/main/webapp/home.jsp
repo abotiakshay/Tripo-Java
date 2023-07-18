@@ -129,7 +129,7 @@ String placelist[]={
     <ul id="nav" >
         <li><a class="active" href="home.jsp">Home</a> </li>
        
-        <li><a href="#product">Places</a></li>
+        <li><a href="likedplace.jsp">Places</a></li>
         
    
 
@@ -347,7 +347,7 @@ String placelist[]={
 </div>
 <div class="form">
     <input type="text" class="email" placeholder="Your Email Address">
-    <button class="normal">SignUp</button>
+    <button class="normal"  onclick="login()" >SignUp</button>
 </div>
 
 </section>
@@ -388,9 +388,9 @@ String placelist[]={
     <div class="footer3">
        
         <h4>My Account</h4>
-       <p><a href="#">Sign In</a></p>
+       <p><a href="NewFile1.jsp">Sign In</a></p>
        <p><a href="#product">Explore</a></p>
-       <p><a href="#">Your Place</a></p>
+       <p><a href="likedplace.jsp">Your Place</a></p>
       
        <p><a href="#">Help</a></p>
     </div>
@@ -420,6 +420,12 @@ String placelist[]={
 
 
 <script>
+
+
+function login()
+{
+	window.location.href = "NewFile1.jsp";
+}
     
     const button11 = document.querySelector('#banner3 #learnmore1');
 

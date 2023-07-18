@@ -71,9 +71,9 @@ padding:10px;
 
 <div >
     <ul id="nav" >
-        <li><a class="active" href="home.html">Home</a> </li>
+        <li><a class="active" href="home.jsp">Home</a> </li>
        
-        <li><a href="#product">Places</a></li>
+        <li><a href="likedplace.jsp">Places</a></li>
         
    
 
@@ -119,6 +119,10 @@ padding:10px;
                 String placedescription = resultSet.getString("placedescription");
                 String placeimage = resultSet.getString("placeimage");
         %>
+        
+        
+        
+        
         <div class="grid-item">
         <img src="<%= placeimage %>" alt="Place Image" height="500" width="500" >
        
