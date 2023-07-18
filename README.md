@@ -4,6 +4,7 @@ Tripo is a Java-based website that simplifies travel planning. Enter the name of
 **Data is fetched from WIKIPEDIA API**
 
 ## SCREENSHOTS
+new
 
 ["Screenshot"](  "screenshot")
 ["Screenshot"](  "screenshot")
