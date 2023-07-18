@@ -5,6 +5,6 @@ Tripo is a Java-based website that simplifies travel planning. Enter the name of
 
 ## SCREENSHOTS
 <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/abotiakshay/Tripo-Java/blob/f4ca639bf7c0828694d0f147c9b4a4d331489bbe/screenshots/s222.PNG" alt="Screenshot" style="width: 50%;">
-  <img src="https://github.com/abotiakshay/Tripo-Java/blob/f4ca639bf7c0828694d0f147c9b4a4d331489bbe/screenshots/s33.PNG" alt="Screenshot" style="width: 50%;">
+  <img src="https://github.com/abotiakshay/Tripo-Java/blob/f4ca639bf7c0828694d0f147c9b4a4d331489bbe/screenshots/s222.PNG" alt="Screenshot" >
+  <img src="https://github.com/abotiakshay/Tripo-Java/blob/f4ca639bf7c0828694d0f147c9b4a4d331489bbe/screenshots/s33.PNG" alt="Screenshot" >
 </div>
